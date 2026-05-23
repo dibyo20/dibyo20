@@ -160,7 +160,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 |:---|:---|
 | 🟡 **LeetCode** | 200+ Problems Solved |
 | 📚 **Language** | Java |
-| 🧠 **Topics** | Arrays · Strings · Linked Lists · Trees · Binary Search · Recursion · Sliding Window · Two Pointers |
+| 🧠 **Topics** | Arrays · Strings · Linked Lists · Trees · Binary Search · Recursion · Sliding Window · Two Pointers · Graph |
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/dibyo20?theme=dark&font=JetBrains%20Mono&ext=activity)](https://leetcode.com/u/dibyo20/)
 
@@ -168,13 +168,11 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 
 ## 📈 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dibyo20&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dibyo20&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dibyo20&theme=tokyonight&hide_border=true"/>
+<div align="">
+  <img src="https://streak-stats.demolab.com?user=dibyo20&theme=tokyonight&hide_border=false"/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=dibyo20&theme=tokyonight&hide_border=false&layout=compact"/>
 </div>
 
 ---
