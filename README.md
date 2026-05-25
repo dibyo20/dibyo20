@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hey+%F0%9F%91%8B+I'm+Dibyo+Banerjee;Full-Stack+MERN+Developer;REST+APIs+%7C+JWT+Auth+%7C+MongoDB;Java+%7C+DSA+%7C+200%2B+LeetCode+Problems;Building+%E2%86%92+Learning+%E2%86%92+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=+Dibyo+Banerjee;Full-Stack+MERN+Developer;REST+APIs+%7C+JWT+Auth+%7C+MongoDB;Java+%7C+DSA+%7C+200%2B+LeetCode+Problems;Building+%E2%86%92+Learning+%E2%86%92+Growing" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -8,9 +8,9 @@
   <a href="https://www.linkedin.com/in/dibyo-banerjee" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dibyo_Banerjee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/dibyo20" target="_blank">
+  <!-- <a href="https://github.com/dibyo20" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-dibyo20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  </a> -->
   <a href="https://leetcode.com/u/dibyo20/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-dibyo20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
   </a>
@@ -182,16 +182,15 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dibyo_Banerjee-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibyo-banerjee)
-[![GitHub](https://img.shields.io/badge/GitHub-dibyo20-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dibyo20)
 [![LeetCode](https://img.shields.io/badge/LeetCode-dibyo20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/dibyo20/)
 [![Email](https://img.shields.io/badge/Email-dibyobanerjee20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dibyobanerjee20@gmail.com)
 
 </div>
-<br/>
+<!-- <br/> -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dibyo20&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile Views"/>
-</div>
+</div> -->
 
 ---
 
