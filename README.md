@@ -56,7 +56,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       <p><strong>Stack:</strong> React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary API</p>
     </td>
     <td width="50%" valign="top">
-      <h3>📱 <a href="https://github.com/dibyo20">Clicksy</a> <em>(In Progress)</em></h3>
+      <h3>📱 <a href="https://github.com/dibyo20">Clicksy</a></h3>
       <p>Feature-rich MERN social media platform covering auth, dynamic feeds, posts, likes, comments, and follows.</p>
       <p>
         <strong>Key Highlights:</strong><br/>
