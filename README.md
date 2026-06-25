@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=+Dibyo+Banerjee;Full-Stack+MERN+Developer;REST+APIs+%7C+JWT+Auth+%7C+MongoDB;Java+%7C+DSA+%7C+200%2B+LeetCode+Problems;Building+%E2%86%92+Learning+%E2%86%92+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=+Dibyo+Banerjee;Full-Stack+MERN+Developer;REST+APIs+%7C+JWT+Auth+%7C+MongoDB;Java+%7C+DSA+%7C+250%2B+LeetCode+Problems;Building+%E2%86%92+Learning+%E2%86%92+Growing" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -158,7 +158,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 
 | Platform | Stat |
 |:---|:---|
-| 🟡 **LeetCode** | 200+ Problems Solved |
+| 🟡 **LeetCode** | 250+ Problems Solved |
 | 📚 **Language** | Java |
 | 🧠 **Topics** | Arrays · Strings · Linked Lists · Trees · Binary Search · Recursion · Sliding Window · Two Pointers · Graph |
 
