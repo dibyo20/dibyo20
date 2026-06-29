@@ -23,7 +23,7 @@
 
 ## 💼 Professional Summary
 
-Full-Stack MERN Developer with hands-on experience building scalable, secure web applications end-to-end — from architecting RESTful APIs to crafting responsive, component-driven UIs. Skilled in JWT authentication, cloud media integration, and MongoDB schema design, with a strong problem-solving foundation backed by 200+ LeetCode problems solved in Java.
+Full-Stack MERN Developer with hands-on experience building scalable, secure web applications end-to-end — from architecting RESTful APIs to crafting responsive, component-driven UIs. Skilled in JWT authentication, cloud media integration, and MongoDB schema design, with a strong problem-solving foundation backed by 250+ LeetCode problems solved in Java.
 
 **What I bring to the table:**
 - ✅ **End-to-End MERN Development** — Production-ready apps from schema design to deployment
