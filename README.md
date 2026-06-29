@@ -27,7 +27,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 
 **What I bring to the table:**
 - ✅ **End-to-End MERN Development** — Production-ready apps from schema design to deployment
-- ✅ **Strong DSA Foundation** — 200+ LeetCode problems solved in Java
+- ✅ **Strong DSA Foundation** — 250+ LeetCode problems solved in Java
 - ✅ **API Engineering** — JWT auth, role-based access control, cloud media integration
 - ✅ **UI Engineering** — Responsive, mobile-first design with reusable component systems
 
