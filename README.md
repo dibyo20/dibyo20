@@ -57,9 +57,6 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
         • Interactive map-based property discovery UI
       </p>
       <p><strong>Stack:</strong> React.js · Node.js · Express.js · MongoDB · JWT · Cloudinary API</p>
-      <p>
-        <a href="https://github.com/dibyo20/MajorProject">GitHub ↗</a>
-      </p>
     </td>
     <td width="50%" valign="top">
       <h3>📱 <a href="https://github.com/dibyo20/Clicksy">Clicksy</a></h3>
@@ -73,7 +70,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       </p>
       <p><strong>Stack:</strong> React.js · Node.js · Express.js · MongoDB · JWT · SCSS · ImageKit · Vite</p>
       <p>
-        <a href="https://github.com/dibyo20/Clicksy">GitHub ↗</a> · <a href="https://clicksy.dibyo.tech/">Live ↗</a>
+        · <a href="https://clicksy.dibyo.tech/">Live ↗</a>
       </p>
     </td>
   </tr>
@@ -90,7 +87,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       </p>
       <p><strong>Stack:</strong> React.js · Recharts · JavaScript (ES6+) · SCSS</p>
       <p>
-        <a href="https://github.com/dibyo20/expense-tracker">GitHub ↗</a> · <a href="https://expensetrackerdibyo.vercel.app/">Live ↗</a>
+        · <a href="https://expensetrackerdibyo.vercel.app/">Live ↗</a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -108,7 +105,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 
 <p><strong>Stack:</strong> React.js · JavaScript · REST API · CSS3 · Vite</p>
 <p>
-  <a href="https://github.com/dibyo20/movie-explorer">GitHub ↗</a>
+  
 </p>
     </td>
   </tr>
