@@ -70,7 +70,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       </p>
       <p><strong>Stack:</strong> React.js · Node.js · Express.js · MongoDB · JWT · SCSS · ImageKit · Vite</p>
       <p>
-        · <a href="https://clicksy.dibyo.tech/">Live ↗</a>
+        <strong>Live:</strong> <a href="https://clicksy.dibyo.tech/">clicksy.dibyo.tech</a>
       </p>
     </td>
   </tr>
@@ -87,7 +87,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       </p>
       <p><strong>Stack:</strong> React.js · Recharts · JavaScript (ES6+) · SCSS</p>
       <p>
-        · <a href="https://expensetrackerdibyo.vercel.app/">Live ↗</a>
+        <strong>Live:</strong> <a href="https://expensetrackerdibyo.vercel.app/">expensetrackerdibyo.vercel.app</a>
       </p>
     </td>
     <td width="50%" valign="top">
