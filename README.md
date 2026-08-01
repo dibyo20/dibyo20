@@ -91,7 +91,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/dibyo20/movie-explorer">Movie Explorer</a></h3>
+      <h3>🎬 <a href="https://github.com/dibyo20/CineLens.git">CineLens</a></h3>
 
 <p>Modern movie discovery application built with React, featuring real-time search, filtering, and dynamic content powered by external movie APIs.</p>
 
@@ -105,7 +105,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 
 <p><strong>Stack:</strong> React.js · JavaScript · REST API · CSS3 · Vite</p>
 <p>
-  
+  <strong>Live:</strong> <a href="https://cinelens-dibyo.vercel.app/">expensetrackerdibyo.vercel.app</a>
 </p>
     </td>
   </tr>
