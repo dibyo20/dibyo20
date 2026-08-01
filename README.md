@@ -105,7 +105,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 
 <p><strong>Stack:</strong> React.js · JavaScript · REST API · CSS3 · Vite</p>
 <p>
-  <strong>Live:</strong> <a href="https://cinelens-dibyo.vercel.app/">expensetrackerdibyo.vercel.app</a>
+  <strong>Live:</strong> <a href="https://cinelens-dibyo.vercel.app/">cinelens-dibyo.vercel.app</a>
 </p>
     </td>
   </tr>
