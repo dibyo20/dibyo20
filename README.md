@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=+Dibyo+Banerjee;Full-Stack+Software+Developer;REST+APIs+%7C+JWT+Auth+%7C+MongoDB;Java+%7C+DSA+%7C+300%2B+LeetCode+Problems;Building+%E2%86%92+Learning+%E2%86%92+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=+Dibyo+Banerjee;Full-Stack+Software+Developer;REST+APIs+%7C+JWT+Auth+%7C+MongoDB;Java+%7C+DSA+%7C+350%2B+LeetCode+Problems;Building+%E2%86%92+Learning+%E2%86%92+Growing" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -26,16 +26,16 @@
 
 ## 💼 Professional Summary
 
-Full-Stack MERN Developer with hands-on experience building scalable, secure web applications end-to-end — from architecting RESTful APIs to crafting responsive, component-driven UIs. Skilled in JWT authentication, cloud media integration, and MongoDB schema design, with a strong problem-solving foundation backed by 300+ LeetCode problems solved in Java.
+Full-Stack MERN Developer with hands-on experience building scalable, secure web applications end-to-end — from architecting RESTful APIs to crafting responsive, component-driven UIs. Skilled in JWT authentication, Redis caching, cloud media integration, and MongoDB schema design, with a strong problem-solving foundation backed by 350+ LeetCode problems solved in Java.
 
 **What I bring to the table:**
 - ✅ **End-to-End MERN Development** — Production-ready apps from schema design to deployment
-- ✅ **Strong DSA Foundation** — 300+ LeetCode problems solved in Java
-- ✅ **API Engineering** — JWT auth, role-based access control, cloud media integration
+- ✅ **Strong DSA Foundation** — 350+ LeetCode problems solved in Java, 150+ day streak
+- ✅ **API Engineering** — JWT auth, Redis-backed session/token caching, role-based access control, cloud media integration
 - ✅ **UI Engineering** — Responsive, mobile-first design with reusable component systems
 
 **Currently:**
-- 🔨 Building **Predicto** — a full-stack app that suggests songs based on your current mood
+- 🎧 Shipped **Predicto** — a full-stack app that scans your mood via on-device face detection and streams a matching playlist
 - 📚 Deepening DSA skills and System Design fundamentals
 - 🌐 Exploring backend architecture patterns and scalable API design
 - 🤖 Exploring AI/ML and its integration with web applications
@@ -62,6 +62,23 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3>🎵 <a href="https://github.com/dibyo20/Predicto">Predicto</a></h3>
+      <p>Mood-based music platform that reads real-time facial expressions on-device and streams a curated, mood-matching playlist.</p>
+      <p>
+        <strong>Key Highlights:</strong><br/>
+        • On-device face landmarking & mood classification with MediaPipe<br/>
+        • Redis-backed JWT blacklisting for secure logout/session handling<br/>
+        • ID3 metadata auto-parsing on track ingestion<br/>
+        • Full-featured custom audio player streamed via ImageKit CDN
+      </p>
+      <p><strong>Stack:</strong> React.js · Node.js · Express.js · MongoDB · Redis · MediaPipe · JWT · ImageKit · Vite</p>
+      <p>
+        <strong>Live:</strong> <a href="https://predicto.dibyo.tech/">predicto.dibyo.tech</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🧑‍⚕️ <a href="https://github.com/dibyo20/Solvit-Counselling">Solvit Counselling</a></h3>
       <p>Full-stack counselling platform for discovering professional counsellors, authenticating users, and browsing specialists by their area of expertise.</p>
       <p>
@@ -76,8 +93,6 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
         <strong>Live:</strong> <a href="https://solvit.dibyo.tech/">solvit.dibyo.tech</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💰 <a href="https://github.com/dibyo20/expense-tracker">Expense Tracker</a></h3>
       <p>Responsive personal finance dashboard with full CRUD transaction management and real-time spending analytics.</p>
@@ -92,24 +107,6 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
       <p>
         <strong>Live:</strong> <a href="https://expensetrackerdibyo.vercel.app/">expensetrackerdibyo.vercel.app</a>
       </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎬 <a href="https://github.com/dibyo20/CineLens.git">CineLens</a></h3>
-
-<p>Modern movie discovery application built with React, featuring real-time search, filtering, and dynamic content powered by external movie APIs.</p>
-
-<p>
-<strong>Key Highlights:</strong><br/>
-• Real-time movie search with debounced API requests<br/>
-• Advanced filtering by year and content type<br/>
-• Dynamic movie detail cards with ratings & metadata<br/>
-• Responsive and reusable component-based architecture
-</p>
-
-<p><strong>Stack:</strong> React.js · JavaScript · OMDB API · CSS3 · Vite</p>
-<p>
-  <strong>Live:</strong> <a href="https://cinelens-dibyo.vercel.app/">cinelens-dibyo.vercel.app</a>
-</p>
     </td>
   </tr>
 </table>
@@ -139,10 +136,11 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
   <img src="https://img.shields.io/badge/Bcrypt.js-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white"/>
 </div>
 
-### Database
+### Database & Caching
 <div align="left">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </div>
 
 ### Languages & Tools
@@ -164,7 +162,7 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 ### 🤖 AI / ML — Learning & Exploring
 <div align="left">
   <img src="https://img.shields.io/badge/Generative_AI-FF6B6B?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python_(Learning)-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0F9D58?style=for-the-badge&logo=google&logoColor=white"/>
 </div>
 
 ---
@@ -173,7 +171,8 @@ Full-Stack MERN Developer with hands-on experience building scalable, secure web
 
 | Platform | Stat |
 |:---|:---|
-| 🟡 **LeetCode** | 300+ Problems Solved |
+| 🟡 **LeetCode** | 350+ Problems Solved |
+| 🔥 **Streak** | 150+ Days |
 | 📚 **Language** | Java |
 | 🧠 **Topics** | Arrays · Strings · Linked Lists · Trees · Binary Search · Recursion · Sliding Window · Two Pointers · Graph |
 
